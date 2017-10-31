@@ -7,6 +7,6 @@ target 'True Flavor' do
 
   # Pods for True Flavor
   pod 'Firebase/Core'
-  
+  pod 'Firebase/Database'
 
 end
